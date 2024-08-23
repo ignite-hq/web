@@ -35,4 +35,4 @@ For questions and support, join the official [Ignite Discord](https://discord.gg
 
 We welcome contributions from everyone. The `develop` branch contains the development version of the code. You can create a branch from `develop` and create a pull request, or maintain your own fork and submit a cross-repository pull request.
 
-**Important** Before you start implementing a new feature, the first step is to create an issue on Github that describes the proposed changes.
+**Important**: Before you start implementing a new feature, the first step is to create an issue on Github that describes the proposed changes.
